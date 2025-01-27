@@ -11,6 +11,7 @@
 - **[Fatima Lezcano]**
   - Agregada la funcionalidad de "Buscar servicios" en la página de servicios.
   - Actualización del estilo de los botones para una mejor accesibilidad.
+  - Modificado el pie de pagina de la vista de iniciar sesion en mobile
 
 - **[Cynthia Funes]**
   - Optimización del rendimiento de la página principal al reducir el tamaño de las imágenes.
