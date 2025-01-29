@@ -166,7 +166,7 @@ p {
 }
 
 .solucion {
-    background-image: url(../img/inicio.jpg);
+    background-image: url(../img/inicio.webp);
     background-repeat: no-repeat;
     background-size: cover;
     height: 450px;
@@ -192,7 +192,7 @@ p {
 
 /*imagenes de destacados*/
 .destacado1 {
-    background-image: url(../img/destacado1.jpg);
+    background-image: url(../img/destacado1.webp);
     background-repeat: no-repeat;
     background-size: cover;
     width: 22rem;
@@ -201,7 +201,7 @@ p {
 }
 
 .destacado2 {
-    background-image: url(../img/destacado2.jpg);
+    background-image: url(../img/destacado2.webp);
     background-repeat: no-repeat;
     background-size: cover;
     width: 22rem;
@@ -211,7 +211,7 @@ p {
 }
 
 .destacado3 {
-    background-image: url(../img/destacado3.jpg);
+    background-image: url(../img/destacado3.webp);
     background-repeat: no-repeat;
     background-size: cover;
     width: 22rem;
@@ -334,7 +334,7 @@ p {
 
 
 .servicio1 {
-    background-image: url(../img/servicio1.jpg);
+    background-image: url(../img/servicio1.webp);
     background-repeat: no-repeat;
     background-size: cover;
     width: 22rem;
@@ -343,7 +343,7 @@ p {
 }
 
 .servicio2 {
-    background-image: url(../img/servicio2.jpg);
+    background-image: url(../img/servicio2.webp);
     background-repeat: no-repeat;
     background-size: cover;
     width: 22rem;
@@ -352,7 +352,7 @@ p {
 }
 
 .servicio3 {
-    background-image: url(../img/servicio3.jpg);
+    background-image: url(../img/servicio3.webp);
     background-repeat: no-repeat;
     background-size: cover;
     width: 22rem;
@@ -361,7 +361,7 @@ p {
 }
 
 .servicio4 {
-    background-image: url(../img/servicio4.jpg);
+    background-image: url(../img/servicio4.webp);
     background-repeat: no-repeat;
     background-size: cover;
     width: 22rem;
@@ -370,7 +370,7 @@ p {
 }
 
 .servicio5 {
-    background-image: url(../img/servicio5.jpg);
+    background-image: url(../img/servicio5.webp);
     background-repeat: no-repeat;
     background-size: cover;
     width: 22rem;
@@ -379,7 +379,7 @@ p {
 }
 
 .servicio6 {
-    background-image: url(../img/servicio6.jpg);
+    background-image: url(../img/servicio6.webp);
     background-repeat: no-repeat;
     background-size: cover;
     width: 22rem;
@@ -388,7 +388,7 @@ p {
 }
 
 .servicio7 {
-    background-image: url(../img/servicio7.jpg);
+    background-image: url(../img/servicio7.webp);
     background-repeat: no-repeat;
     background-size: cover;
     width: 22rem;
@@ -397,7 +397,7 @@ p {
 }
 
 .servicio8 {
-    background-image: url(../img/servicio8.jpg);
+    background-image: url(../img/servicio8.webp);
     background-repeat: no-repeat;
     background-size: cover;
     width: 22rem;
@@ -406,7 +406,7 @@ p {
 }
 
 .servicio9 {
-    background-image: url(../img/servicio9.jpg);
+    background-image: url(../img/servicio9.webp);
     background-repeat: no-repeat;
     background-size: cover;
     width: 22rem;
